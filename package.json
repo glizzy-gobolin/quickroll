@@ -2,9 +2,9 @@
   "name": "quickroll",
   "version": "1.0.0",
   "description": "Dice roller Discord bot",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "main": "node src/index.js"
+    "main": "node index.js"
   },
   "repository": {
     "type": "git",
