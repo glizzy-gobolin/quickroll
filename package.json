@@ -1,0 +1,27 @@
+{
+  "name": "quickroll",
+  "version": "1.0.0",
+  "description": "Dice roller Discord bot",
+  "main": "src/index.js",
+  "scripts": {
+    "main": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glizzy-gobolin/quickroll.git"
+  },
+  "keywords": [
+    "dnd",
+    "dice",
+    "ttrpg"
+  ],
+  "author": "glizzy-gobolin",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/glizzy-gobolin/quickroll/issues"
+  },
+  "homepage": "https://github.com/glizzy-gobolin/quickroll#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
+}
